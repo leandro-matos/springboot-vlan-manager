@@ -31,7 +31,7 @@ Backend:
 -	[Swagger](https://swagger.io)
 
 ### MySQL:
-![](images/mysql.svg)
+![](images/mysql.jpg)
 
 ## Show your support
 
