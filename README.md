@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> API com a lista de artistas e músicass
+> API com a lista de usuários e departamentos
 
 ### ✨ [Demo](https://vlan-manager.netlify.app)
 
